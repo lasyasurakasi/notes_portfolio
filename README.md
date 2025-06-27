@@ -6,5 +6,5 @@ It also doubles as my personal site.
 ## 🚀 Clone the Repo
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>
-cd <your-repo-name>
+git clone https://github.com/lasyasurakasi/notes_portfolio.git
+cd notes_portfolio
